@@ -4,9 +4,9 @@
 **该ChatGPT需要有Python11.0以上或更高。**
 **Clone项目**
 <p> clone https://github.com/Mulali/ChatGPT-3.5-Demo.git</p>
-**安装openai的Python包**
+安装openai的Python包
 <p>pip install openai</p>
-**安装完成，在项目根目录下打开cmd运行项目**
+安装完成，在项目根目录下打开cmd运行项目
 <p>python sever.py</p>
 
 # 打赏
